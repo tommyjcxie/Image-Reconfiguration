@@ -1,2 +1,2 @@
-# Image-Reconfig
-Does imagine reconfiguration actions such as contouring, thresholding, and magnifying on a sample image. ContourOperation.java, AdjustmentOperation.java,  ThresholdingOperation.java, MagnifyOperation.java operations were implemented by me. The rest were starting class files.
+# Image Reconfirguartion
+A Java program that takes in a jpg file and does various configurations on the image such as resizing, inverting the colors, etc.
